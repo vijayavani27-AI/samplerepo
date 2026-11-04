@@ -1,0 +1,4 @@
+Hi my name is vijayavani am from india - unstage la iruku
+git add panna files lam stage panna ready panni vaikum
+commit panna files elam stage aagum 
+push panna files lam cloud la store aagum
